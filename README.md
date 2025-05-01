@@ -1,8 +1,7 @@
-<img align="left" style="margin-top:25px" width="60" height="60" src="Assets/logo.png">
 
 ## LokRakshak - AI Powered Security Solution 
 
-<p style='text-align: justify;'>Rakshak is an AI powered Comprehensive Security Solution which provides Web Interface platform for Security personels, Mobile App (Multi-lingual, Dual Mode) for On Duty guards and Citizens to administer, report and enhance overall security.</p>
+<p style='text-align: justify;'>LokRakshak is an AI powered Comprehensive Security Solution which provides Web Interface platform for Security personels, Mobile App (Multi-lingual, Dual Mode) for On Duty guards and Citizens to administer, report and enhance overall security.</p>
 <p style='text-align: justify;'>Rakshak integrates various Machine Learning & Deep Learning based models to detect & identify various types of crimes/accidents via CCTV streams.</p>
 
 ## Problem Definition✨
@@ -38,7 +37,7 @@ Rakshak consists of Web Interface for Admins, Mobile App Module for On-Duty pers
 
 ## Video Demo ▶️
 
-[![Youtube Video Demo](Assets/logo.png)]
+https://www.youtube.com/watch?v=CxT0X8jtIPU
 
 ## Tech Stack 👨‍💻
 
